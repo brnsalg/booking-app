@@ -1,5 +1,5 @@
 # GO-BOOKING-APP
-*golang booking conference app*
+*booking conference app with golang*
 
 in your terminal, run:
     
